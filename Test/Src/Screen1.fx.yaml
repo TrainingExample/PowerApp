@@ -1,0 +1,13 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        Font: =Font.'Segoe UI'
+        Height: =104
+        Size: =50
+        Text: ="Test"
+        Width: =277
+        X: =520
+        Y: =164
+        ZIndex: =1
+
